@@ -89,8 +89,9 @@ class SatSolver(object):
         elif sys.platform.startswith('win'):
             self.paths += [
                     'minisat.exe', 'MiniSat_v1.14.exe',
-                    '../tools/win/minisat.exe',
-                    '../../../tools/win/minisat.exe',
+                    '..\\tools\\win\\minisat.exe',
+                    '..\\..\\tools\\win\\minisat.exe',
+                    '..\\..\\..\\tools\\win\\minisat.exe',
                 ]
         else:
             pass # empty solver paths will fall back to try 'minisat'
