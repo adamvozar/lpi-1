@@ -30,5 +30,6 @@ Ak si toto pozeráte vo svojom repozitári, funguje aj tento
 |    7   | [rezolvencia a korektné pravidlá](teoreticke/tu07.pdf) | [Resolver](prakticke/pu07) |
 |    8   | [prvorádová formalizácia](teoreticke/tu08.pdf) | [watched literals](prakticke/pu08) |
 |    9   | [definície a štruktúry](teoreticke/tu09.pdf) | [SatSolver](prakticke/pu09) |
+|        | | bonus: [Vlk, koza, kapusta](prakticke/bonus01) |
 
 [Pravidlá pre úlohy](http://dai.fmph.uniba.sk/w/Course:Mathematics_4/sk#pravidla-uloh).
