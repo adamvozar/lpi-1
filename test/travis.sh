@@ -16,7 +16,7 @@ export PATH="$PATH:$PWD/tools/lin/"
 
 
 case "$TRAVIS_BRANCH" in
-	pu*|sat*) cd "${TASKS_DIR}/${TRAVIS_BRANCH}" || die "Nemôžem nájsť ${TASKS_DIR}/${TRAVIS_BRANCH}. Pull request oproti nesprávnej vetve ${TRAVIS_BRANCH}?";;
+	pu*|bonus*|sat*) cd "${TASKS_DIR}/${TRAVIS_BRANCH}" || die "Nemôžem nájsť ${TASKS_DIR}/${TRAVIS_BRANCH}. Pull request oproti nesprávnej vetve ${TRAVIS_BRANCH}?";;
 	*) die "Pull request oproti nesprávnej vetve ${TRAVIS_BRANCH}!";;
 esac
 
