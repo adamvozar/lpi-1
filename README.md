@@ -31,5 +31,6 @@ Ak si toto pozeráte vo svojom repozitári, funguje aj tento
 |    8   | [prvorádová formalizácia](teoreticke/tu08.pdf) | [watched literals](prakticke/pu08) |
 |    9   | [definície a štruktúry](teoreticke/tu09.pdf) | [SatSolver](prakticke/pu09) |
 |        | | bonus: [Vlk, koza, kapusta](prakticke/bonus01) |
+|   10   | [funkčné symboly, substitúcie, prvorádové tablá](teoreticke/tu10.pdf) | |
 
 [Pravidlá pre úlohy](http://dai.fmph.uniba.sk/w/Course:Mathematics_4/sk#pravidla-uloh).
